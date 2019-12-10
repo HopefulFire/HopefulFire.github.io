@@ -1,11 +1,11 @@
 # Site settings
-author: Jade Masker
-title: 
+author: Jade Lynn Masker
+title: The Hopeful Fire
 header-img: img/home-bg.png
 email: hopefulfire@gmail.com
-copyright_name: Jade Masker
+copyright_name: Jade Lynn Masker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A budding programmer's blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HopefulFire
