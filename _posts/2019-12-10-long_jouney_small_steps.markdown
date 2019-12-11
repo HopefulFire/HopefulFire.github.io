@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Long Jouney, Small Steps"
-date:       2019-12-11 03:50:37 +0000
+title:      "Long Journey, Small Steps"
+date:       2019-12-10 22:50:38 -0500
 permalink:  long_jouney_small_steps
 ---
 
