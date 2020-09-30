@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "DRY Code With Partials In Sinatra"
-date:       2020-09-30 19:45:08 +0000
+date:       2020-09-30 15:45:09 -0400
 permalink:  dry_code_with_partials_in_sinatra
 ---
 
@@ -42,7 +42,7 @@ This resulted in very repetitive code. Often I would find a bug in one of my vie
 </div>
 ```
 
-Can you see the mistakes? Neither can I, it's way to complicated! Again, this is the user's home page:
+Can you see the mistakes? Neither can I, it's way too complicated! Again, this is the user's home page:
 
 ```
 <h1>Editing <%= @post.title %> by <%= post.user.username %></h1>
